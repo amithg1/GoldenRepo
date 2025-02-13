@@ -1,0 +1,10 @@
+
+Conflict from branch2
+
+First line from main
+Second line from main
+Third line from main
+
+
+
+New line added after conflict reolution
